@@ -56,7 +56,7 @@ def main():
         listDownload = Arg(longName="--listDownload", action="store_true",      default=False,                   help=f"Lists the non existing `{file.longName}` files in `{dir.longName}` that will be downloaded and exits.")
         listRepeat   = Arg(longName="--listRepeat",   action="store_true",      default=False,                   help=f"Lists the 'REPEAT' files in `{file.longName}` that will be ignored and exits.")
         listLinks    = Arg(longName="--listLinks",    action="store_true",      default=False,                   help=f"Lists the 'REPEAT' files in `{file.longName}` as linux `ln` commands to original files and exits.")
-        threads      = Arg(longName="--threads",      metavar="int",  type=int, default=max(5, os.cpu_count()),  help=f"Specifies the number of threads to use while downloading.")
+        threads      = Arg(longName="--threads",      metavar="int",  type=int, default=max(32, os.cpu_count()), help=f"Specifies the number of threads to use while downloading.")
         verbose      = Arg(longName="--verbose",      metavar="int",  type=int, default=LogLevel.Default,        help=f"Specifies the verbose log level. Larger values enable more verbose output. Log Levels: {LogLevel.getMapping()}")
 
     argParser = ArgParser(

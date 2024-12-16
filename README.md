@@ -49,7 +49,11 @@ options:
 ## Things to Note
 - By default CCDownloader is configured to download all the files in `files.xml` who's names don't match `' REPEAT [.*].EXT'` and don't already existing in `--dir`.
 - `REPEAT` files represent reruns of previously aired episodes and can be hard linked to their original aired episodes by executing the commands output from `py CCDownloader.py --listLinks`
-- There are currently 37 known missing episodes that can be found in `missing.xml`. Feel free to reach out to me with a download link to any of the missing episodes and so I can add them to `files.xml`  
+    > Note: Season 20 only consists of reruns and doesn't contain any unique files. As a result the 'Season 20' folder isn't created by default and should be manually created in the `--dir` folder before running the link commands.
+- There are currently 100 mssing (33 unique) episodes that can be found in `missing.xml`. Feel free to reach out to me with a download link to any of the missing episodes and so I can add them to `files.xml`  
 - Currently all of the episodes in `files.xml` are in english* and cherry picked between versions for best quality. A list of episodes with mulitple versions can be found in `multiversion.txt`.
-    > *Season 12 Episode 20 is in English, but has hardcoded arabic subtitles. As such a strictly english version is also tracked in `missing.xml` 
+    > *Season 12 Episode 20 is in English, but has hardcoded arabic subtitles. A strictly english version is also tracked in `missing.xml`.  
+    > *Season 15 Episode 02 has partial missing audio. A better copy of the episode is also tracked in `missing.xml`.  
+    > *Season 19 Episode 20 has English audio on a second track and the video is partially corrupt. A better copy of the episode is also tracked in `missing.xml`.  
+    > *I admittedly haven't watched all 400+ episodes, so if you stumble across an episode that isn't in english or of 'good' quality let me know and I'll update `missing.xml` to include it.
 - All download links are sourced from various [Internet Archive](https://archive.org/) uploads. If you enjoy using CCDownloader consider making a donation to them [here](https://archive.org/donate?origin=iawww-TopNavDonateButton)  

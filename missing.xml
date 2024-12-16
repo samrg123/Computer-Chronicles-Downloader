@@ -1,40 +1,103 @@
 <!DOCTYPE xml>
 <files>
-    <file name="Season 03/Computer Chronicles S03E06 - Programming &amp; Programmers.missing"            url=""/>
-    <file name="Season 03/Computer Chronicles S03E22 - Color and Computing.missing"                      url=""/>
-    <file name="Season 04/Computer Chronicles S04E19 - Modems.missing"                                   url=""/>
-    <file name="Season 05/Computer Chronicles S05E22 - Computers and Politics (1988).missing"            url=""/>
-    <file name="Season 06/Computer Chronicles S06E21 - Computing in Color.missing"                       url=""/>
-    <file name="Season 07/Computer Chronicles S07E01 - Personal Finance Software.missing"                url=""/>
-    <file name="Season 07/Computer Chronicles S07E02 - Creativity Software.missing"                      url=""/>
-    <file name="Season 07/Computer Chronicles S07E03 - Artificial Intelligence (1989).missing"           url=""/>
-    <file name="Season 07/Computer Chronicles S07E05 - Software for Kids.missing"                        url=""/>
-    <file name="Season 07/Computer Chronicles S07E14 - Computers and the Law.missing"                    url=""/>
-    <file name="Season 07/Computer Chronicles S07E17 - Computer Ergonomics.missing"                      url=""/>
-    <file name="Season 09/Computer Chronicles S09E10 - PC Networks.missing"                              url=""/>
-    <file name="Season 10/Computer Chronicles S10E04 - Computer Speech.missing"                          url=""/>
-    <file name="Season 12/Computer Chronicles S12E20 - Consumer Electronics Show (CES) (1995).missing"   url=""/>
-    <file name="Season 12/Computer Chronicles S12E44 - Computer Bowl VII: Part 2.missing"                url=""/>
-    <file name="Season 13/Computer Chronicles S13E05 - Silicon Glen: Part 1.missing"                     url=""/>
-    <file name="Season 13/Computer Chronicles S13E37 - Computer Bowl VIII.missing"                       url=""/>
-    <file name="Season 14/Computer Chronicles S14E05 - IT Forum, Paris.missing"                          url=""/>
-    <file name="Season 14/Computer Chronicles S14E09 - REPEAT [Silicon Glen: Part 1].missing"            url=""/>
-    <file name="Season 14/Computer Chronicles S14E18 - Wireless Computing.missing"                       url=""/>
-    <file name="Season 14/Computer Chronicles S14E37 - Computer Bowl IX: Part 1.missing"                 url=""/>
-    <file name="Season 14/Computer Chronicles S14E38 - Computer Bowl IX: Part 2.missing"                 url=""/>
-    <file name="Season 14/Computer Chronicles S14E40 - Internet Showcase Special (1997): Part 1.missing" url=""/>
-    <file name="Season 15/Computer Chronicles S15E04 - Internet Advertising.missing"                     url=""/>
-    <file name="Season 15/Computer Chronicles S15E08 - ETRE Conference Berlin (1997): Part 1.missing"    url=""/>
-    <file name="Season 15/Computer Chronicles S15E09 - ETRE Conference Berlin (1997): Part 2.missing"    url=""/>
-    <file name="Season 15/Computer Chronicles S15E12 - Consumer's Buying Guide (1997).missing"           url=""/>
-    <file name="Season 15/Computer Chronicles S15E23 - Internet Showcase San Diego.missing"              url=""/>
-    <file name="Season 16/Computer Chronicles S16E10 - Consumer's Buying Guide (1998).missing"           url=""/>
-    <file name="Season 18/Computer Chronicles S18E22 - High Tech Hawaii: Part 3.missing"                 url=""/>
-    <file name="Season 18/Computer Chronicles S18E26 - REPEAT [Consumer's Buying Guide (2000)].missing"  url=""/>
-    <file name="Season 18/Computer Chronicles S18E44 - REPEAT [High Tech Hawaii: Part 3].missing"        url=""/>
-    <file name="Season 19/Computer Chronicles S19E01 - Technology and the Church: Part 1.missing"        url=""/>
-    <file name="Season 19/Computer Chronicles S19E23 - REPEAT [Guide to Online Auctions].missing"        url=""/>
-    <file name="Season 19/Computer Chronicles S19E37 - REPEAT [High Tech Hawaii: Part 3].missing"        url=""/>
-    <file name="Season 19/Computer Chronicles S19E40 - High Tech Singapore: Part 2.missing"              url=""/>
-    <file name="Season 19/Computer Chronicles S19E51 - REPEAT [High Tech Singapore: Part 2].missing"     url=""/>
+    <file name="Season 02/Computer Chronicles S02E20 - REPEAT.missing"                                    url=""/>
+    <file name="Season 02/Computer Chronicles S02E23 - REPEAT.missing"                                    url=""/>
+    <file name="Season 02/Computer Chronicles S02E24 - REPEAT.missing"                                    url=""/>
+    <file name="Season 02/Computer Chronicles S02E25 - REPEAT.missing"                                    url=""/>
+    <file name="Season 02/Computer Chronicles S02E26 - REPEAT.missing"                                    url=""/>
+    <file name="Season 03/Computer Chronicles S03E06 - Programming &amp; Programmers.missing"             url=""/>
+    <file name="Season 03/Computer Chronicles S03E22 - Color and Computing.missing"                       url=""/>
+    <file name="Season 04/Computer Chronicles S04E19 - Modems.missing"                                    url=""/>
+    <file name="Season 05/Computer Chronicles S05E22 - Computers and Politics (1988).missing"             url=""/>
+    <file name="Season 06/Computer Chronicles S06E21 - Computing in Color.missing"                        url=""/>
+    <file name="Season 07/Computer Chronicles S07E01 - Personal Finance Software.missing"                 url=""/>
+    <file name="Season 07/Computer Chronicles S07E02 - Creativity Software.missing"                       url=""/>
+    <file name="Season 07/Computer Chronicles S07E03 - Artificial Intelligence (1989).missing"            url=""/>
+    <file name="Season 07/Computer Chronicles S07E05 - Software for Kids.missing"                         url=""/>
+    <file name="Season 07/Computer Chronicles S07E14 - Computers and the Law.missing"                     url=""/>
+    <file name="Season 07/Computer Chronicles S07E17 - Computer Ergonomics.missing"                       url=""/>
+    <file name="Season 08/Computer Chronicles S08E08 - REPEAT.missing"                                    url=""/>
+    <file name="Season 08/Computer Chronicles S08E13 - REPEAT.missing"                                    url=""/>
+    <file name="Season 08/Computer Chronicles S08E14 - REPEAT.missing"                                    url=""/>
+    <file name="Season 08/Computer Chronicles S08E16 - REPEAT.missing"                                    url=""/>
+    <file name="Season 08/Computer Chronicles S08E17 - REPEAT.missing"                                    url=""/>
+    <file name="Season 08/Computer Chronicles S08E26 - REPEAT.missing"                                    url=""/>
+    <file name="Season 09/Computer Chronicles S09E10 - PC Networks.missing"                               url=""/>
+    <file name="Season 09/Computer Chronicles S09E13 - REPEAT.missing"                                    url=""/>
+    <file name="Season 09/Computer Chronicles S09E14 - REPEAT.missing"                                    url=""/>
+    <file name="Season 09/Computer Chronicles S09E16 - REPEAT.missing"                                    url=""/>
+    <file name="Season 09/Computer Chronicles S09E20 - REPEAT.missing"                                    url=""/>
+    <file name="Season 10/Computer Chronicles S10E04 - Computer Speech.missing"                           url=""/>
+    <file name="Season 10/Computer Chronicles S10E20 - REPEAT.missing"                                    url=""/>
+    <file name="Season 11/Computer Chronicles S11E27 - REPEAT.missing"                                    url=""/>
+    <file name="Season 11/Computer Chronicles S11E31 - REPEAT.missing"                                    url=""/>
+    <file name="Season 11/Computer Chronicles S11E33 - REPEAT.missing"                                    url=""/>
+    <file name="Season 11/Computer Chronicles S11E35 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E09 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E14 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E17 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E20 - Consumer Electronics Show (CES) (1995).broken"     url=""/>
+    <file name="Season 12/Computer Chronicles S12E21 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E22 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E25 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E28 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E33 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E34 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E35 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E37 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E38 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E39 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E40 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E41 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E42 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E43 - REPEAT.missing"                                    url=""/>
+    <file name="Season 12/Computer Chronicles S12E44 - Computer Bowl VII: Part 2.missing"                 url=""/>
+    <file name="Season 13/Computer Chronicles S13E05 - Silicon Glen: Part 1.missing"                      url=""/>
+    <file name="Season 13/Computer Chronicles S13E09 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E13 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E14 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E23 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E30 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E32 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E33 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E34 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E36 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E37 - Computer Bowl VIII.missing"                        url=""/>
+    <file name="Season 13/Computer Chronicles S13E40 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E41 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E42 - REPEAT.missing"                                    url=""/>
+    <file name="Season 13/Computer Chronicles S13E43 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E05 - IT Forum, Paris.missing"                           url=""/>
+    <file name="Season 14/Computer Chronicles S14E09 - REPEAT [Silicon Glen: Part 1].missing"             url=""/>
+    <file name="Season 14/Computer Chronicles S14E13 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E14 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E18 - Wireless Computing.missing"                        url=""/>
+    <file name="Season 14/Computer Chronicles S14E22 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E26 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E28 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E34 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E35 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E36 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E37 - Computer Bowl IX: Part 1.missing"                  url=""/>
+    <file name="Season 14/Computer Chronicles S14E38 - Computer Bowl IX: Part 2.missing"                  url=""/>
+    <file name="Season 14/Computer Chronicles S14E39 - REPEAT.missing"                                    url=""/>
+    <file name="Season 14/Computer Chronicles S14E40 - Internet Showcase Special (1997): Part 1?.missing" url=""/>
+    <file name="Season 15/Computer Chronicles S15E02 - Internet Showcase Special (1997).broken"           url=""/>
+    <file name="Season 15/Computer Chronicles S15E04 - Internet Advertising.missing"                      url=""/>
+    <file name="Season 15/Computer Chronicles S15E08 - ETRE Conference Berlin (1997): Part 1.missing"     url=""/>
+    <file name="Season 15/Computer Chronicles S15E09 - ETRE Conference Berlin (1997): Part 2.missing"     url=""/>
+    <file name="Season 15/Computer Chronicles S15E12 - Consumer's Buying Guide (1997).missing"            url=""/>
+    <file name="Season 15/Computer Chronicles S15E14 - REPEAT.missing"                                    url=""/>
+    <file name="Season 15/Computer Chronicles S15E15 - REPEAT.missing"                                    url=""/>
+    <file name="Season 15/Computer Chronicles S15E23 - Internet Showcase San Diego.missing"               url=""/>
+    <file name="Season 16/Computer Chronicles S16E10 - Consumer's Buying Guide (1998).missing"            url=""/>
+    <file name="Season 18/Computer Chronicles S18E22 - High Tech Hawaii: Part 3.missing"                  url=""/>
+    <file name="Season 18/Computer Chronicles S18E26 - REPEAT [Consumer's Buying Guide (2000)].missing"   url=""/>
+    <file name="Season 18/Computer Chronicles S18E44 - REPEAT [High Tech Hawaii: Part 3].missing"         url=""/>
+    <file name="Season 19/Computer Chronicles S19E01 - Technology and the Church: Part 1.missing"         url=""/>
+    <file name="Season 19/Computer Chronicles S19E20 - Medical Technology: Part 2.broken"                 url=""/>
+    <file name="Season 19/Computer Chronicles S19E23 - REPEAT [Guide to Online Auctions].missing"         url=""/>
+    <file name="Season 19/Computer Chronicles S19E37 - REPEAT [High Tech Hawaii: Part 3].missing"         url=""/>
+    <file name="Season 19/Computer Chronicles S19E40 - High Tech Singapore: Part 2.missing"               url=""/>
+    <file name="Season 19/Computer Chronicles S19E51 - REPEAT [High Tech Singapore: Part 2].missing"      url=""/>
 </files>

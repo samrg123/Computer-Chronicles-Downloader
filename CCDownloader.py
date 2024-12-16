@@ -21,14 +21,14 @@ def GetInfoStr(header:str, info:list) -> str:
             val    = info[key] 
             keyStr = keyStrs[i]
             
-            valStr = maxIndentStr[len(keyStr):] + f" = {f',\n   {maxIndentStr}'.join(val) if isinstance(val, list) else val}"
+            valStr = maxIndentStr[len(keyStr):] + f" = {f'\n   {maxIndentStr}'.join(val) if isinstance(val, list) else val}"
 
             infoStr+= f"{keyStr}{valStr}\n"
 
         infoStr+= f"Total Items: {len(info)}\n"
 
     elif isinstance(info, list) or isinstance(info, set):
-        infoStr+= f"   {f',\n   '.join(sorted(info))}\nTotal Items: {len(info)}\n"
+        infoStr+= f"   {f'\n   '.join(sorted(info))}\nTotal Items: {len(info)}\n"
 
     else:
         infoStr += f"{info}\n"

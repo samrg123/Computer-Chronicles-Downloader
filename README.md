@@ -12,7 +12,7 @@
 ## About **C**omputer **C**hronicles **Downloader**
 **C**omputer **C**hronicles **Downloader** (CCDownloader) is a lightweight python utility used to bulk download episodes of [*The Computer Chronicles*](https://en.wikipedia.org/wiki/Computer_Chronicles) or any other files conforming to the the `files.xml` download format. 
 
-As configured out of the box CCDownloader will download 448 unique episodes of *The Computer Chronicles* from Seasons 1 - 19. CCDownloader can also optionally output linux `ln` commands to additionally hark link 142 re-aired episodes from Seasons 1-20 to their original episode files. 
+As configured out of the box CCDownloader will download 448 unique episodes of *The Computer Chronicles* from Seasons 1 - 19. CCDownloader can also optionally output linux `ln` commands to additionally hark link 151 re-aired episodes from Seasons 1-20 to their original episode files. 
 
 <a name="gettingStarted"></a>
 ## Getting Started
